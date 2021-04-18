@@ -181,7 +181,7 @@ public partial class Game : Form
 								ifTileWasMoved = true;
 							}
 						}	
-				break;
+				break;    Sosi
 		}
 
 		if (ifTileWasMoved)
